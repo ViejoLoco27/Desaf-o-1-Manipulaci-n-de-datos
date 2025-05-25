@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Oracle_Next_Education-blue?style=plastic&logo=python&logoColor=green&logoSize=auto&label=Alura%20Latam)
+![Static Badge](https://img.shields.io/badge/Proyecto-blue?style=plastic&logo=pandas&logoColor=green&logoSize=auto&label=Pandas%20ETL)
+![Static Badge](https://img.shields.io/badge/Certificado_del_curso-Alura?logo=pandas&color=%231e4181&link=https%3A%2F%2Fapp.aluracursos.com%2Fcertificate%2Fguz27-unameconomia%2Fpandas-transformacion-manipulacion-datos)
 # Análisis de ventas
 
 ## **Objetivo del proyecto**
